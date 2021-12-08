@@ -1,0 +1,10 @@
+D:\MY\DupliChecker\DupliChecker\bin\Release\DupliChecker.exe.config
+D:\MY\DupliChecker\DupliChecker\bin\Release\DupliChecker.exe
+D:\MY\DupliChecker\DupliChecker\bin\Release\DupliChecker.pdb
+D:\MY\DupliChecker\DupliChecker\obj\Release\DupliChecker.csprojAssemblyReference.cache
+D:\MY\DupliChecker\DupliChecker\obj\Release\DupliChecker.Main.resources
+D:\MY\DupliChecker\DupliChecker\obj\Release\DupliChecker.Properties.Resources.resources
+D:\MY\DupliChecker\DupliChecker\obj\Release\DupliChecker.csproj.GenerateResource.cache
+D:\MY\DupliChecker\DupliChecker\obj\Release\DupliChecker.csproj.CoreCompileInputs.cache
+D:\MY\DupliChecker\DupliChecker\obj\Release\DupliChecker.exe
+D:\MY\DupliChecker\DupliChecker\obj\Release\DupliChecker.pdb
