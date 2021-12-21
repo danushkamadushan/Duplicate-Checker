@@ -16,8 +16,7 @@ namespace DupliChecker
     public partial class Main : Form
     {
         [DllImport("kernel32.dll")]
-        static extern bool CreateSymbolicLink(
-         string lpSymlinkFileName, string lpTargetFileName, SymbolicLink dwFlags);
+        static extern bool CreateSymbolicLink(string lpSymlinkFileName, string lpTargetFileName, SymbolicLink dwFlags);
         public Main()
         {
             InitializeComponent();

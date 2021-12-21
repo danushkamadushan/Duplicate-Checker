@@ -67,13 +67,11 @@
             // 
             // label2
             // 
-            this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(719, 217);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(45, 16);
+            this.label2.Size = new System.Drawing.Size(227, 16);
             this.label2.TabIndex = 9;
-            this.label2.Text = "label2";
             // 
             // groupBox1
             // 
@@ -224,7 +222,6 @@
             this.Text = "DupliChecker";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.panel4.ResumeLayout(false);
